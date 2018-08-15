@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: sitemap.xml
+Sitemap: daolavi.com/sitemap.xml
