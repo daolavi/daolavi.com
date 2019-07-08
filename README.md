@@ -1,2 +1,2 @@
-# daolavi.github.io
+# daolavi.com
 Dao Lam's Resume
